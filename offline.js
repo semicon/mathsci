@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1597818281,
+	"version": 1597831537,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,7 @@
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/tiledbackground.png",
+		"images/sprite3-sheet0.png",
 		"media/chemistry.m4a",
 		"media/chemistry.ogg",
 		"media/excellent.m4a",
